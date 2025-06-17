@@ -36,13 +36,13 @@ BFS는 그래프나 트리에서 시작 노드로부터 가까운 노드부터 �
 
 <br>
 
-| BOJ 문제번호 | 난이도   | 문제                                                       | 풀이 코드 |
-| ------------ | -------- | ---------------------------------------------------------- | --------- |
-| 2178         | Silver 1 | [미로 탐색](https://www.acmicpc.net/problem/2178)          | Java      |
-| 7576         | Gold 5   | [토마토](https://www.acmicpc.net/problem/7576)             | Java      |
-| 4179         | Gold 3   | [불!](https://www.acmicpc.net/problem/4179)                | Java      |
-| 2206         | Gold 3   | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Java      |
-| 11967        | Gold 2   | [불켜기](https://www.acmicpc.net/problem/11967)            | Java      |
+| BOJ 문제번호 | 난이도   | 문제                                                       | 풀이 코드                    |
+| ------------ | -------- | ---------------------------------------------------------- | ---------------------------- |
+| 2178         | Silver 1 | [미로 탐색](https://www.acmicpc.net/problem/2178)          | [Java](./20250615/README.md) |
+| 7576         | Gold 5   | [토마토](https://www.acmicpc.net/problem/7576)             | Java                         |
+| 4179         | Gold 3   | [불!](https://www.acmicpc.net/problem/4179)                | Java                         |
+| 2206         | Gold 3   | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | Java                         |
+| 11967        | Gold 2   | [불켜기](https://www.acmicpc.net/problem/11967)            | Java                         |
 
 <br>
 
