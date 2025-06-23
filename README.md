@@ -55,7 +55,7 @@ BFS는 그래프나 트리에서 시작 노드로부터 가까운 노드부터 �
 | BOJ 문제번호 | 난이도     | 문제                                                  | 풀이 코드                    |
 | ------------ | ---------- | ----------------------------------------------------- | ---------------------------- |
 | 1629         | Silver 1   | [곱셈](https://www.acmicpc.net/problem/1629)          | [Java](./20250623/README.md) |
-| 15649        | Silver 3   | [N과 M(1)](https://www.acmicpc.net/problem/15649)     | Java                         |
+| 15649        | Silver 3   | [N과 M(1)](https://www.acmicpc.net/problem/15649)     | [Java](./20250624/README.md) |
 | 15650        | Silver 3   | [N과 M(2)](https://www.acmicpc.net/problem/15650)     | Java                         |
 | 9663         | Gold 4     | [N-Queen](https://www.acmicpc.net/problem/9663)       | Java                         |
 | 1941         | Gold 3     | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | Java                         |
