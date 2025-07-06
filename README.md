@@ -83,14 +83,14 @@ d(depth)는 재귀 깊이<br>
 
 <br>
 
-| BOJ 문제번호 | 난이도     | 문제                                                  | 풀이 코드                                        |
-| ------------ | ---------- | ----------------------------------------------------- | ------------------------------------------------ |
-| 1629         | Silver 1   | [곱셈](https://www.acmicpc.net/problem/1629)          | [Java](./2_Recursion+Backtracking/BOJ_S1_1629/)  |
-| 15649        | Silver 3   | [N과 M(1)](https://www.acmicpc.net/problem/15649)     | [Java](./2_Recursion+Backtracking/BOJ_S3_15649/) |
-| 15650        | Silver 3   | [N과 M(2)](https://www.acmicpc.net/problem/15650)     | Java                                             |
-| 9663         | Gold 4     | [N-Queen](https://www.acmicpc.net/problem/9663)       | Java                                             |
-| 1941         | Gold 3     | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | Java                                             |
-| 1799         | Platinum 5 | [비숍](https://www.acmicpc.net/problem/1799)          | Java                                             |
+| BOJ 문제번호 | 난이도     | 문제                                                  | 풀이 코드                                                 |
+| ------------ | ---------- | ----------------------------------------------------- | --------------------------------------------------------- |
+| 1629         | Silver 1   | [곱셈](https://www.acmicpc.net/problem/1629)          | [Java](./2_Recursion+Backtracking/BOJ_S1_1629/)           |
+| 15649        | Silver 3   | [N과 M(1)](https://www.acmicpc.net/problem/15649)     | [Java](./2_Recursion+Backtracking/BOJ_S3_15649/)          |
+| 15650        | Silver 3   | [N과 M(2)](https://www.acmicpc.net/problem/15650)     | [Java](./2_Recursion+Backtracking/BOJ_S3_15650/README.md) |
+| 9663         | Gold 4     | [N-Queen](https://www.acmicpc.net/problem/9663)       | Java                                                      |
+| 1941         | Gold 3     | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | Java                                                      |
+| 1799         | Platinum 5 | [비숍](https://www.acmicpc.net/problem/1799)          | Java                                                      |
 
 <br>
 
