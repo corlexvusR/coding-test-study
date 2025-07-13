@@ -117,13 +117,13 @@ d(depth)는 재귀 깊이<br>
 
 <br>
 
-| BOJ 문제번호 | 난이도     | 문제                                                            | 풀이 코드 |
-| ------------ | ---------- | --------------------------------------------------------------- | --------- |
-| 13335        | Silver 1   | [트럭](https://www.acmicpc.net/problem/13335)                   | Java      |
-| 14503        | Gold 5     | [로봇 청소기](https://www.acmicpc.net/problem/14503)            | Java      |
-| 20057        | Gold 3     | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | Java      |
-| 21611        | Gold 1     | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | Java      |
-| 23289        | Platinum 5 | [온풍기 안녕!](https://www.acmicpc.net/problem/23289)           | Java      |
+| BOJ 문제번호 | 난이도     | 문제                                                            | 풀이 코드                                     |
+| ------------ | ---------- | --------------------------------------------------------------- | --------------------------------------------- |
+| 13335        | Silver 1   | [트럭](https://www.acmicpc.net/problem/13335)                   | [Java](./3_Simulation/BOJ_S1_13335/README.md) |
+| 14503        | Gold 5     | [로봇 청소기](https://www.acmicpc.net/problem/14503)            | Java                                          |
+| 20057        | Gold 3     | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | Java                                          |
+| 21611        | Gold 1     | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | Java                                          |
+| 23289        | Platinum 5 | [온풍기 안녕!](https://www.acmicpc.net/problem/23289)           | Java                                          |
 
 <br>
 
