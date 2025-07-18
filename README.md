@@ -131,13 +131,13 @@ d(depth)는 재귀 깊이<br>
 
 ### 1차원 DP (Dynamic Programming)
 
-| BOJ 문제번호 | 난이도   | 문제                                                      | 풀이 코드 |
-| ------------ | -------- | --------------------------------------------------------- | --------- |
-| 9095         | Silver 3 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095)      | Java      |
-| 2579         | Silver 3 | [계단 오르기](https://www.acmicpc.net/problem/2579)       | Java      |
-| 11659        | Silver 3 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | Java      |
-| 2302         | Gold 5   | [극장 좌석](https://www.acmicpc.net/problem/2302)         | Java      |
-| 4883         | Silver 1 | [삼각 그래프](https://www.acmicpc.net/problem/4883)       | Java      |
+| BOJ 문제번호 | 난이도   | 문제                                                      | 풀이 코드                            |
+| ------------ | -------- | --------------------------------------------------------- | ------------------------------------ |
+| 9095         | Silver 3 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095)      | [Java](./4_DP/BOJ_S3_9095/README.md) |
+| 2579         | Silver 3 | [계단 오르기](https://www.acmicpc.net/problem/2579)       | Java                                 |
+| 11659        | Silver 3 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | Java                                 |
+| 2302         | Gold 5   | [극장 좌석](https://www.acmicpc.net/problem/2302)         | Java                                 |
+| 4883         | Silver 1 | [삼각 그래프](https://www.acmicpc.net/problem/4883)       | Java                                 |
 
 <br>
 
