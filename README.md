@@ -163,14 +163,14 @@ d(depth)는 재귀 깊이<br>
 
 ### 그리디 (Greedy Algorithm)
 
-| BOJ 문제번호 | 난이도   | 문제                                                    | 풀이 코드 |
-| ------------ | -------- | ------------------------------------------------------- | --------- |
-| 11047        | Silver 4 | [동전 0](https://www.acmicpc.net/problem/11047)         | Java      |
-| 1931         | Gold 5   | [회의실 배정](https://www.acmicpc.net/problem/1931)     | Java      |
-| 2217         | Silver 4 | [로프](https://www.acmicpc.net/problem/2217)            | Java      |
-| 1026         | Silver 4 | [보물](https://www.acmicpc.net/problem/1026)            | Java      |
-| 1700         | Gold 1   | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Java      |
-| 8980         | Gold 1   | [택배](https://www.acmicpc.net/problem/8980)            | Java      |
+| BOJ 문제번호 | 난이도   | 문제                                                    | 풀이 코드                                 |
+| ------------ | -------- | ------------------------------------------------------- | ----------------------------------------- |
+| 11047        | Silver 4 | [동전 0](https://www.acmicpc.net/problem/11047)         | [Java](./6_Greedy/BOJ_S4_11047/README.md) |
+| 1931         | Gold 5   | [회의실 배정](https://www.acmicpc.net/problem/1931)     | Java                                      |
+| 2217         | Silver 4 | [로프](https://www.acmicpc.net/problem/2217)            | Java                                      |
+| 1026         | Silver 4 | [보물](https://www.acmicpc.net/problem/1026)            | Java                                      |
+| 1700         | Gold 1   | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | Java                                      |
+| 8980         | Gold 1   | [택배](https://www.acmicpc.net/problem/8980)            | Java                                      |
 
 <br>
 
